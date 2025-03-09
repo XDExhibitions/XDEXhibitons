@@ -1,1 +1,31 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XD Exhibitions - Exhibition Stands Across UK & EU</title>
+    <meta name="description" content="XD Exhibitions provides high-quality exhibition stands for fairs across the UK and EU. We offer sales, rentals, transportation, and setup services.">
+    <meta name="keywords" content="Exhibition Stands, Trade Show Booths, Event Stands, UK Exhibitions, EU Exhibitions, Stand Rental, Stand Design">
+    <meta name="author" content="XD Exhibitions">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph for Social Media -->
+    <meta property="og:title" content="XD Exhibitions - Exhibition Stands Across UK & EU">
+    <meta property="og:description" content="We provide top-quality exhibition stands, rentals, and setup across the UK and EU.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.XDexhibitions.co.uk">
+    
+    <link rel="canonical" href="https://www.XDexhibitions.co.uk">
+</head>
+<body>
+    <header>
+        <h1>Welcome to XD Exhibitions</h1>
+    </header>
+    <main>
+        <p>Your go-to provider for exhibition stands across the UK and EU.</p>
+    </main>
+    <footer>
+        <p>&copy; 2025 XD Exhibitions. All rights reserved.</p>
+    </footer>
+</body>
+</html>
